@@ -1,0 +1,2 @@
+Bank Personal Loan Modeling
+This notebook demonstrates predicting personal loan acceptance using K-Nearest Neighbors (KNN) alongside other machine learning algorithms. The dataset contains customer demographic and banking behavior features. After data cleaning and feature engineering, KNN was applied to classify loan acceptance based on the closest customer profiles. Model evaluation metrics are used to assess accuracy and performance.
